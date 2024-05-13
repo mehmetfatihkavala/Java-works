@@ -1,0 +1,48 @@
+run:
+KULLANICI ADINIZI GÝRÝNÝZ: 
+mehmetfatihkavala
+ÞÝFRENÝZÝ GÝRÝNÝZ: 
+212121
+HOÞGELDÝNÝZ...
+***************************
+***************************
+1.BAKÝYE SORGULAMA
+2.PARA YATIRMA
+3.PARA ÇEKME
+q. ÇIKIÞ
+***************************
+3
+***************************
+ÇEKMEK ÝSTEDÝÐÝNÝZ MÝKTARI GÝRÝNÝZ:
+200
+Yeni bakiyeniz:2300.0
+***************************
+1.BAKÝYE SORGULAMA
+2.PARA YATIRMA
+3.PARA ÇEKME
+q. ÇIKIÞ
+***************************
+2
+***************************
+YATIRMAK ÝSTEDÝÐÝNÝZ MÝKTARI GÝRÝNÝZ:
+1500
+Yeni bakiyeniz:3800.0
+***************************
+1.BAKÝYE SORGULAMA
+2.PARA YATIRMA
+3.PARA ÇEKME
+q. ÇIKIÞ
+***************************
+1
+***************************
+GÜNCEL BAKÝYENÝZ: 3800.0
+***************************
+1.BAKÝYE SORGULAMA
+2.PARA YATIRMA
+3.PARA ÇEKME
+q. ÇIKIÞ
+***************************
+q
+***************************
+ÇIKIÞ YAPILIYOR...
+BUILD SUCCESSFUL (total time: 31 seconds)

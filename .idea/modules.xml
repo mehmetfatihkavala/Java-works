@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java çalışmalar.iml" filepath="$PROJECT_DIR$/.idea/Java çalışmalar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asal sayı/asal sayı.iml" filepath="$PROJECT_DIR$/asal sayı/asal sayı.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesli harf/sesli harf.iml" filepath="$PROJECT_DIR$/sesli harf/sesli harf.iml" />
+    </modules>
+  </component>
+</project>
